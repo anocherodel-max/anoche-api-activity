@@ -64,8 +64,6 @@ router.post('/dishes', (req, res) => {
 
 
 
-
-
 router.put('/dishes/:id', (req, res) => {
     const id = parseInt(req.params.id); 
     const index = data.findIndex((d) => d.id === id);
