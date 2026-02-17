@@ -21,5 +21,8 @@
 - Answer : Showing a 404 tells the client that the resource does not exist, which gives a clear feedback instead of just showing an empty result or screen.
 
 **4. Testing:**
+<img width="1366" height="738" alt="541425482-a710a4db-2c9b-4c8a-a03" src="https://github.com/user-attachments/assets/4d2dedb5-37b2-43b1-8ff6-585241087571" />
+<img width="1366" height="738" alt="541425540-3db45a09-2f6a-4521-ac1" src="https://github.com/user-attachments/assets/5ea4d397-a18c-414d-8c61-42e048c5ed5b" />
 
-- (Paste a screenshot of a successful GET request here)
+
+
